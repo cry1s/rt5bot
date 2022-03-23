@@ -1,0 +1,17 @@
+{
+  "name": "rt5bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node bot"
+  },
+  "author": "cry1s",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.23",
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.4.2"
+  }
+}
